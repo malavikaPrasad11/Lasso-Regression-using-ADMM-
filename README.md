@@ -14,5 +14,5 @@ This repository contains an implementation of the **Alternating Direction Method
 ## 🚀 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/malavikaPrasad11/ADMM_Lasso_vs_DecisionTree.git
+   git clone https://github.com/malavikaPrasad11/Lasso Regression Using ADMM.git
    cd Lasso Regression Using ADMM
